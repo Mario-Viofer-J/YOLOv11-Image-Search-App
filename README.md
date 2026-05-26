@@ -60,13 +60,12 @@ Then open the local Streamlit link shown in the terminal.
 ## Output Screenshots
 
 #### Streamlit Run Command
-![alt text](image.png)
-
+![alt text](Screenshots/image_33.png)
 #### Streamlit Web UI
-![alt text](image-1.png)
+![alt text](Screenshots/image_31.png)
 
 #### Object Detection Result
-![alt text](image-2.png)
+![alt text](Screenshots/image_32.png)
 
 ## Innovations Added
 - Simple Streamlit UI
